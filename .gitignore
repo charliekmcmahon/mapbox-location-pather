@@ -1,2 +1,3 @@
-/.DS_Store
-/tokens.js
+includes/tokens.js
+.DS_Store
+node_modules/
